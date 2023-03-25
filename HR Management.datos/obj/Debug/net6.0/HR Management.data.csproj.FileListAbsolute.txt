@@ -1,0 +1,15 @@
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\bin\Debug\net6.0\HR Management.data.deps.json
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\bin\Debug\net6.0\HR Management.data.dll
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\bin\Debug\net6.0\HR Management.data.pdb
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\bin\Debug\net6.0\HR Management.Model.dll
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\bin\Debug\net6.0\HR Management.Model.pdb
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.csproj.AssemblyReference.cache
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.AssemblyInfoInputs.cache
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.AssemblyInfo.cs
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.csproj.CopyComplete
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.dll
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\refint\HR Management.data.dll
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\HR Management.data.pdb
+C:\Users\Carlo\Desktop\ProyectoSBOLabs\HR Management.datos\obj\Debug\net6.0\ref\HR Management.data.dll
