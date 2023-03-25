@@ -283,7 +283,7 @@ public class UsersService : IUserService
             }
 
             var fileName = "users.csv";
-            var filePath = @"C:\Users\Carlo\Documents\" + fileName;
+            var filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory), fileName);
 
             await System.IO.File.WriteAllTextAsync(filePath, builder.ToString());
         }
