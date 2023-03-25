@@ -40,7 +40,8 @@ namespace HR_Management.controllers
         }
 
 
-        [HttpPut("/{id}/salary")]
+        [HttpPut]
+        [Route("{id}/salary")]
         public async Task<ActionResult<bool>> UpdateSalaryByid(int id)
         {
 
